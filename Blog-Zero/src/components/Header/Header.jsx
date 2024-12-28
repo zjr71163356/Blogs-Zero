@@ -8,7 +8,7 @@ function Header() {
           <li>首页</li>
           <li>计算机</li>
           <li>生活</li>
-          <li>文字</li>
+          <li>碎碎念</li>
           <li>相册</li>
         </ul>
      <hr/>

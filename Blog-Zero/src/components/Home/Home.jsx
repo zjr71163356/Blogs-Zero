@@ -1,9 +1,13 @@
-import React from 'react'
-
+import React from "react";
+import Card from "../Card/Card";
 function Home() {
   return (
-    <div>施工ing......</div>
-  )
+    <>
+    
+      <div>施工ing......</div>
+      <Card></Card>
+    </>
+  );
 }
 
-export default Home
+export default Home;
