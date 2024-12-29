@@ -2,11 +2,11 @@
   display: flex;
   justify-content: space-between;
 }
-li{
+ .container li{
     list-style: none;
     cursor: pointer;
 
 }
-li:hover{
+.container li:hover{
     color:rgb(0,47,167);
 }

@@ -11,6 +11,13 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("./assets/CoderNotTalker.svg");
+  background-size :auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; /* 背景固定，不随滚动 */
+
+ 
 }
 
 a {

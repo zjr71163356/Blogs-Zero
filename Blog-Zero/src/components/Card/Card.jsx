@@ -4,7 +4,11 @@ function Card() {
   return (
     <div>
       {/* <div>Card</div> */}
-      <h1> 欢迎来到我的<span style={{color:'rgb(0,47,167)'}}>世界</span></h1>
+      <h1>
+        {" "}
+        欢迎来到我的<span style={{ color: "rgb(0,47,167)" }}>世界</span>
+      </h1>
+
     </div>
   );
 }
